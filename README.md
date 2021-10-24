@@ -27,3 +27,4 @@ Our goal is to utilize Google Cloud to better collect the data and be able to ru
 
 # Links
 https://devpost.com/software/better-buzzes
+https://github.com/hpark416/BetterBuzzes-1
