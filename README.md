@@ -1,6 +1,5 @@
 # BetterBuzzes
-
-#Copy Paste
+![alt text](https://github.com/jperez306/BetterBuzzes/blob/main/images/logo.png)
 
 # How it works
 BetterBuzzes is a three part feeback loop:
