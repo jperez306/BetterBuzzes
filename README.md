@@ -15,9 +15,11 @@ From this data simulations are run to help
 In this example 60 people, 30 who use stop A in the morning and 30 who use stop B, head to stop C for classes, then return are a more dispered rate back to their home stop.
 
 Unoptimized bus stop volume:
+
 ![alt text](https://github.com/jperez306/BetterBuzzes/blob/main/images/31243241.png)
 
 Optimized bus stop volume:
+
 ![alt text](https://github.com/jperez306/BetterBuzzes/blob/main/images/23143214.png)  
 
 # Future goals
